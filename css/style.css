@@ -38,3 +38,148 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
+body{
+	background-color: #e8e8e8;
+}
+
+.block-head{
+	position: ;
+	width: 1230px;
+	height: 1064px;
+	margin-top: 106px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url('../img/Ellipse_1_copy.png') right no-repeat;
+}
+
+.travel{
+	padding-top: 62px;
+	opacity: 0.6;
+	color: #273d46;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 40px;
+	text-align: center;
+	letter-spacing: 2.8px;
+	line-height: normal;
+}
+
+.zagolovok{
+	color: #273d46;
+	font-family: "Times New Roman PSMT";
+	font-size: 36px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 50px;
+	text-align: center;
+}
+
+.img_in_cont{
+	position: center;
+	width: 841px;
+	height: 561px;
+	box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);	
+	background-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 52px;
+}
+
+.man{
+	padding: 10px;
+}
+
+.lower-text{
+	width: 736px;
+	height: 257px;
+	opacity: 0.8;
+	color: #273d46;
+	font-family: "Times New Roman PSMT";
+	font-size: 24px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 40px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 90px;
+}
+
+.list{
+	width: 458px;
+	height: 125px;
+	margin-top: 65px;
+	margin-left: 20%;
+	margin-right: auto;
+}
+
+li{
+	font-family: "Arial MT";
+	font-size: 20px;
+	line-height: 36px;
+	letter-spacing: normal;
+	background: url('../img/check_icon.png') left no-repeat;
+	padding: 0 0 0 40px;
+}
+
+.li-1{
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+	color: #273d46;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.li-2{
+	color: #80b7b3;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.li-3{
+	color: #273d46;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.li-4{
+	opacity: 0.3;
+	color: #273d46;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: line-through;
+}
+
+.full-story-btn{
+	background-color: #80b7b3;
+	border: 5px solid #80b7b3;
+	border-radius: 30px;
+	color: #ffffff;
+	font-family: "Arial MT";
+	font-size: 14px;
+	line-height: 40px;
+	letter-spacing: 2.8px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.strelka{
+	padding: auto;
+	margin-top: 11px;
+}
+
+.btn-story{
+	margin-top: 70px;
+	margin-left: 20%;
+	margin-right: auto;
+}
+
+.spacebot{
+	height: 100px;
+	opacity: 0;
+	margin-top: 100px;
+}
